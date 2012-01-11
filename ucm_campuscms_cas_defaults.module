@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the UCM CAS Defaults feature.
+ */
+
+include_once('ucm_campuscms_cas_defaults.features.inc');
